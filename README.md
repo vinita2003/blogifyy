@@ -5,13 +5,16 @@
 
 
 # Home Page
-[]<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/Home%20(2).png" length = "330px" breadth = "440px">
+<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/Home%20(2).png" length = 330 width = 440>
+
 # Create a new Account
-[]<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/create%20%20(2).png" length = "330px" breadth = "440px">
+<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/create%20%20(2).png" length = 330 width = 440>
+
 # Add a New Blog
-[]<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/signin%20(2).png" length = "330px" breadth = "440px">
+<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/signin%20(2).png" length = 330 width = 440>
+
 # signin
-[]<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/signnn.png" length = "330px" breadth = "440px">
+<img src = "https://raw.githubusercontent.com/vinita2003/blogifyy/master/signnn.png" length = 330 width = 440>
 
 
 
