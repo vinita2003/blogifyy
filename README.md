@@ -1,6 +1,8 @@
 
 
 <div align="center"><h1>YouTube Blog</h1>
+ This project is a full-stack blog application built using Node.js, Express, MongoDB, and EJS. It includes user authentication, blog management, and views rendering. The application allows users to register, login, create, read, update, and delete blog posts.
+
 
 
 
